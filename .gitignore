@@ -1,0 +1,8 @@
+/animal-clef-2025
+/venv
+/__pycache__
+/.ipynb_checkpoints
+*.png
+*.csv
+*.pt
+visualize.ipynb
